@@ -1,13 +1,3 @@
-
-// giflib config.h
-
-#ifndef GIF_CONFIG_H_DEFINED
-#define GIF_CONFIG_H_DEFINED
-
-#include <sys/types.h>
-#include <stdint.h>
-#include <fcntl.h>
-
-typedef uint32_t UINT32;
-
-#endif
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aaa545fee59c82fadc75abc03a17c128953b8e00b31817009cb49536087873e
+size 176
